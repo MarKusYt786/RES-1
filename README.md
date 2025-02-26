@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MarKusYt786
-- 👀 I’m interested in ... Web development 
+- 👀 I’m interested in ... Web Development and Frontend Development 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... website development 
 - 📫 How to reach me ... on GitHub 
-- 😄 Pronouns: ... Yeswanth 
+- 😄 Pronouns: ... He/Him 
 - ⚡ Fun fact: ... Catch me if you can!!
 
 <!---
